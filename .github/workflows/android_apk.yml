@@ -1,4 +1,4 @@
-name: Android Beta APK build
+name: Android APK build
 
 on:
   workflow_dispatch:
